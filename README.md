@@ -2,7 +2,7 @@
 <div align="center">
 <p><img src="https://github.com/145548109/Sistema-gestion-hotel/assets/166523628/39f576b9-2c23-4f04-bddf-7bf50456d1cc" alt="GIF" width="400" height="300"></p><p><a<br>
 
-SGHt<br>
+Sistema Gestion de Hotel<br>
 <div align="left">
 Integrantes:<br>
 <summary>Marco Castillo
