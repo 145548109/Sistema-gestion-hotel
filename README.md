@@ -1,2 +1,2 @@
 # Sistema-gestion-hotel
-SG Hotel
+SGHt
