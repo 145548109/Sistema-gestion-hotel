@@ -10,7 +10,7 @@ Integrantes:<br>
 <summary>Ariel Tandazo 
 <summary>Joel Tapia<br>
 <br>
-__Este sistema nos va a permitir__<br>
+_Este sistema nos va a permitir_<br>
 <details><summary>RESERVACION</summary>
   <summary>Preguntar cuantas personas se van a hospedar
   <summary>Verificar si hay la capacidad para hospedarlos
