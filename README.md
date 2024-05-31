@@ -17,7 +17,7 @@ Integrantes:<br>
 1. RESERVACION<br>
     - Preguntar cuantas personas se van a hospedar
     - Verificar si hay la capacidad para hospedarlos
-    - Cheking (cuando ingreasmos al hotel) y chekout(cuando salimos del hotel  
+    - Cheking (cuando ingreasmos al hotel) y Chekout(cuando salimos del hotel  
 
 
 Diagrama UML 
