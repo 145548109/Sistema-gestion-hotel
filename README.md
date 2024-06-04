@@ -21,5 +21,5 @@ Integrantes:<br>
 </details>
 
 ## Diagrama UML 
-<div align="center"><img src= "https://raw.githubusercontent.com/145548109/Sistema-gestion-hotel/main/Uml_1.1.png?token=GHSAT0AAAAAACTFCJOGDIASJZIYPI3VTHHWZS6PGCA"></summary><br>
+<div align="center"><img src= "https://raw.githubusercontent.com/145548109/Sistema-gestion-hotel/develop/UML/Uml_1.0.png"></summary><br>
 <br>
