@@ -55,6 +55,33 @@ class Reservacion(models.Model):
     def __str__(self):
         return self.cliente.persona.nombre
 
+class Factura(models.Model):
+    iva = models.FloatField()
+    gastoComida = models.FloatField()
+    gastoTour = models.FloatField()
+    habitacion = models.FloatField()
+    def __str__(self):
+        return self.reservacion.cliente.persona.nombre
+
+class Disponiblidad(models.choices):
+    DISPONIBLE = 'Disponible'
+    RESERVADO = 'Reservado'
+    NO_DISPONIBLE = 'No Disponible'
+
+class Categoria(models.Choices):
+    PRIMERACLASE = 'Primera Clase'
+    ESTANDAR = 'Estandar'
+    BASICO = 'Basico'
+class Habitacion(models.Model):
+    numeracionHabitacion = models.CharField(max_length=10)
+    tipo = models.CharField(max_length=100)
+    capacidad = models.IntegerField()
+    disponibilidad = models.BooleanField()
+    costo = models.FloatField()
+    categoria = models.CharField(max_length=100)
+    cantidadHabitaciones = models.IntegerField()
+
+
 
 
 
