@@ -18,7 +18,8 @@ Integrantes:<br>
     - Preguntar cuantas personas se van a hospedar
     - Verificar si hay la capacidad para hospedarlos
     - Cheking (cuando ingreasmos al hotel) y Chekout(cuando salimos del hotel  
+</details>
 
-
-Diagrama UML 
-![image](https://github.com/145548109/Sistema-gestion-hotel/assets/166523628/9080848b-ee95-4881-95c6-d552f126e4a1)
+## Diagrama UML 
+<div align="center"><img src= "https://raw.githubusercontent.com/145548109/Sistema-gestion-hotel/main/Uml_1.1.png?token=GHSAT0AAAAAACTFCJOGDIASJZIYPI3VTHHWZS6PGCA"></summary><br>
+<br>
